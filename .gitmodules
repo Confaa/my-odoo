@@ -22,3 +22,79 @@
 	path = addons/web
 	url = https://github.com/OCA/web.git
 	branch = 19.0
+	shallow = true
+[submodule "addons/account-invoice-reporting"]
+	path = addons/account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/account-financial-tools"]
+	path = addons/account-financial-tools
+	url = https://github.com/ingadhoc/account-financial-tools.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/account-invoicing"]
+	path = addons/account-invoicing
+	url = https://github.com/ingadhoc/account-invoicing.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/account-payment"]
+	path = addons/account-payment
+	url = https://github.com/ingadhoc/account-payment.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/argentina-sale"]
+	path = addons/argentina-sale
+	url = https://github.com/ingadhoc/argentina-sale.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/miscellaneous"]
+	path = addons/miscellaneous
+	url = https://github.com/ingadhoc/miscellaneous.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/multi-company"]
+	path = addons/multi-company
+	url = https://github.com/ingadhoc/multi-company.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/odoo-argentina"]
+	path = addons/odoo-argentina
+	url = https://github.com/ingadhoc/odoo-argentina.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/odoo-argentina-ce"]
+	path = addons/odoo-argentina-ce
+	url = https://github.com/ingadhoc/odoo-argentina-ce.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/product"]
+	path = addons/product
+	url = https://github.com/ingadhoc/product.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/purchase"]
+	path = addons/purchase
+	url = https://github.com/ingadhoc/purchase.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/sale"]
+	path = addons/sale
+	url = https://github.com/ingadhoc/sale.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/stock"]
+	path = addons/stock
+	url = https://github.com/ingadhoc/stock.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/partner"]
+	path = addons/partner
+	url = https://github.com/ingadhoc/partner.git
+	branch = 19.0
+	shallow = true
+[submodule "custom-addons/my-odoo-addons"]
+	path = custom-addons/my-odoo-addons
+	url = https://github.com/Confaa/my-odoo-addons.git
+	branch = 19.0
+	shallow = true
