@@ -1,0 +1,24 @@
+[submodule "addons/pos"]
+	path = addons/pos
+	url = https://github.com/OCA/pos.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/sale-workflow"]
+	path = addons/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/server-tools"]
+	path = addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/stock-logistics-workflow"]
+	path = addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 19.0
+	shallow = true
+[submodule "addons/web"]
+	path = addons/web
+	url = https://github.com/OCA/web.git
+	branch = 19.0
