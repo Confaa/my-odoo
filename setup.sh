@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-BRANCH="19.0"
+BRANCH="18.0"
 ADDONS_DIR="addons"
 CUSTOM_ADDONS_DIR="custom-addons"
 

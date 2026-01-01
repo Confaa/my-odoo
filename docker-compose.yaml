@@ -18,7 +18,7 @@ services:
       - USER=odoo
       - PASSWORD=odoo
   odoo-db:
-    image: postgres:17
+    image: postgres:16
     restart: always
     volumes:
       - odoo-db-data:/var/lib/postgresql/data
